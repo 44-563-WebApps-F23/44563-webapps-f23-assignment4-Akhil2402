@@ -35,3 +35,12 @@
   }
   .tr:nth-child(even) {
     background-color: rgb(21,219,203); /* Row stripes for odd rows */
+  }
+  .Citizen1:hover{
+    text-shadow:6px 7px 5px rgb(180,63,63);
+    border:solid 2px orange
+  }
+.Citizen2:hover{
+  text-shadow:6px 7px 5px rgb(180,63,63);
+    border:solid 2px orange
+}
