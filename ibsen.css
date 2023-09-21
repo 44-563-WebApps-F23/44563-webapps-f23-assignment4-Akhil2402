@@ -23,3 +23,15 @@
 
 .speech_Citizen1{color:skyblue;}
 .speech_Citizen2{color:greenyellow;}
+.table,th,td {
+
+    border: 1px solid #ddd;
+    color:red;
+    border-color:green;
+    margin:50px;
+    padding:10px;
+    /*margin-bottom: 20px;*/
+    text-align: left;
+  }
+  .tr:nth-child(even) {
+    background-color: rgb(21,219,203); /* Row stripes for odd rows */
